@@ -63,7 +63,8 @@ A personal portfolio platform built with React + Tailwind. Focused on responsive
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karlthere&show_icons=true&theme=tokyonight&icon_color=ffb6c1" width="48%" /> <br>
-<img src="https://streak-stats.demolab.com/?user=karlthere" alt="GitHub Streak" />
+<!-- <img src="https://streak-stats.demolab.com/?user=karlthere" alt="GitHub Streak" /> -->
+<img src="https://streak-stats.demolab.com?user=karlthere&theme=tokyonight" width="48%" />
 
 
 
