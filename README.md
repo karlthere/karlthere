@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://karlsportofolio.vercel.app/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-karlthere.vercel.app-FFC0CB?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:kiees.student@gmail.com">
     <img src="https://img.shields.io/badge/📬 Email-kiees.student%40gmail.com-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/karlina-septiani-3740b1263/" target="_blank">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-Karlina%20Septiani-B0E0E6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@ I work with technologies like **React**, **TailwindCSS**, and **Figma** to bring
 ### 🎯 **DevLink – Portfolio Platform**
 A personal portfolio platform built with React + Tailwind. Focused on responsive layout, design accessibility, and showcasing developer journeys.
 
-- 🔗 [Live Demo](https://karlsportofolio.vercel.app/)
+- 🔗 [Live Demo]()
 - 💻 Tech: React, TailwindCSS, Vite, Figma
 
 ---
@@ -75,7 +75,7 @@ A personal portfolio platform built with React + Tailwind. Focused on responsive
 ## 📬 Let’s Connect!
 
 - 💌 Email: [kiees.student@gmail.com](mailto:kiees.student@gmail.com)  
-- 💼 LinkedIn: [Karlina Septiani](https://www.linkedin.com/in/karlina-septiani-3740b1263)
+- 💼 LinkedIn: []()
 
 ---
 
